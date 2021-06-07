@@ -8,10 +8,11 @@
 <br>
 
 <strong>Description</strong><br>
-Movieskip helps people find movies they want to watch by excluding everything that they've already decided<br>
-is not of their interest. We've all been their with some friends trying to find a movie to watch watch. There<br>
-is always someone who has seen the suggestion or really doesn't want to. Movieskip gets through the bigger part<br>
-of these issues, besides, everytime to try to find a movie, you make it easier for the upcoming selections.
+Movieskip helps people find movies they want to watch by excluding everything they have already decided<br>
+is not of their interest. We've all been there trying to find a movie to watch with some friends. There<br>
+is always someone who has seen the suggestion or really doesn't want to. Movieskip gets through the bigger<br>
+part of these issues.Besides, everytime you try to find a movie, you make it easier for the upcoming<br>
+selections.
 <br><br>
 
  &nbsp; &nbsp;<strong>Social auth and email auth with password recovery enabled.</strong>
@@ -55,16 +56,14 @@ of these issues, besides, everytime to try to find a movie, you make it easier f
 </p>
 <br>
 
-&nbsp; &nbsp;<strong>Register view to prompt user in every view that requires authentication</strong>
+&nbsp; &nbsp;<strong>Prompt user to register wherever authentication is required.</strong>
 <p>
   <img src="https://github.com/marchelmon/PORTFOLIO/blob/master/Movieskip/assets/7.png" width="200">
 </p>
 
 <br><br>
-
-https://user-images.githubusercontent.com/20098096/121034388-4670cf80-c7ad-11eb-8fd8-fe52a34aabb6.MP4
-
 <a id="b"></a>
+https://user-images.githubusercontent.com/20098096/121034388-4670cf80-c7ad-11eb-8fd8-fe52a34aabb6.MP4
 
 
 
