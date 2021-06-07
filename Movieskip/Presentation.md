@@ -4,7 +4,7 @@
 <h3>Find drivers/passengers nearby, find a destination and make the trip come true! All in realtime</h3>
 <strong>Libraries: </strong> Firestore, Firebase Auth, AlamoFire, SwiftyJson, Facebook SDK...<br>
 
-<a href="b">Movie swipe display at the bottom</a>
+<a href="#b">Movie swipe display at the bottom</a>
 <br>
 
 <strong>Description</strong><br>
