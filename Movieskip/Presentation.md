@@ -1,18 +1,14 @@
 # Movieskip App Presentation 
-
 </br>
-<h3>Find drivers/passengers nearby, find a destination and make the trip come true! All in realtime</h3>
-<strong>Libraries: </strong> Firestore, Firebase Auth, AlamoFire, SwiftyJson, Facebook SDK...<br>
-
-<a href="#b">Movie swipe display at the bottom</a>
-<br>
-
 <strong>Description</strong><br>
 Movieskip helps people find movies they want to watch by excluding everything they have already decided<br>
-is not of their interest. We've all been there trying to find a movie to watch with some friends. There<br>
+they do not want. We've all been there trying to find a movie to watch with some friends. There<br>
 is always someone who has seen the suggestion or really doesn't want to. Movieskip gets through the bigger<br>
 part of these issues.Besides, everytime you try to find a movie, you make it easier for the upcoming<br>
 selections.
+<br><br>
+
+<a href="#swipe">Movie swipe display at the bottom</a>
 <br><br>
 
  &nbsp; &nbsp;<strong>Social auth and email auth with password recovery enabled.</strong>
@@ -62,9 +58,9 @@ selections.
 </p>
 
 <br><br>
-<a id="b"></a>
-https://user-images.githubusercontent.com/20098096/121034388-4670cf80-c7ad-11eb-8fd8-fe52a34aabb6.MP4
 
+<strong>Swipe video</strong><br>
+<a id="swipe">https://user-images.githubusercontent.com/20098096/121034388-4670cf80-c7ad-11eb-8fd8-fe52a34aabb6.MP4</a>
 
 
 
