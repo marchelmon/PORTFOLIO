@@ -1,11 +1,7 @@
 # Movieskip App Presentation 
 </br>
 <strong>Description</strong><br>
-Movieskip helps people find movies they want to watch by excluding everything they have already decided<br>
-they do not want. We've all been there trying to find a movie to watch with some friends. There<br>
-is always someone who has seen the suggestion or really doesn't want to. Movieskip gets through the bigger<br>
-part of these issues.Besides, everytime you try to find a movie, you make it easier for the upcoming<br>
-selections.
+Movieskip makes it easier to select a movie to watch, both by yourself and most of all when watching with friends.
 <br><br>
 
 <a href="#swipe">Movie swipe display at the bottom</a>
